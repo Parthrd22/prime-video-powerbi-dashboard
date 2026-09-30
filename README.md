@@ -73,6 +73,19 @@ The dashboard provides insights into:
 - IMDb score distribution
 - Audience engagement through IMDb votes
 - Movie vs TV Show performance
+  
+ ## 🔍 Key Insights
+
+Based on the dashboard analysis:
+
+- 🎬 The dataset contains approximately **11K titles**, with Movies forming the majority of the content.
+- 📺 TV Shows represent a smaller portion of the overall content library.
+- 🎭 **Drama** is among the most frequently represented genres in the dataset.
+- 🌎 The **United States** is the leading production country in the dataset.
+- ⭐ IMDb scores are concentrated around the **5–7 range**.
+- 📈 The number of titles varies significantly across different release years.
+- 🏆 Titles such as **Pulp Fiction, The Wolf of Wall Street, and Eternal Sunshine of the Spotless Mind** appear prominently in IMDb-vote analysis.
+- 📊 The dashboard allows users to interactively explore the data using **Release Year** and **Content Type** filters.
 
 ## 👨‍💻 Author
 
