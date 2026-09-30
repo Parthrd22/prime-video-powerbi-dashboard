@@ -145,6 +145,32 @@ prime-video-powerbi-dashboard/
 | Average IMDb Score | Average IMDb score |
 | IMDb Votes | Audience engagement based on IMDb votes |
 
+## ▶️ How to Use the Dashboard
+
+1. Download the `Amazon-Prime-Video-PowerBI-Dashboard.pbix` file from this repository.
+2. Install **Microsoft Power BI Desktop**.
+3. Open the `.pbix` file in Power BI Desktop.
+4. Navigate between **Page 1 – Overview Dashboard** and **Page 2 – Detailed Analysis**.
+5. Use the **Release Year** slicer to filter the dashboard by year.
+6. Use the **Type** slicer to filter between Movies and TV Shows.
+7. Select different charts and data points to explore the dashboard interactively.
+
+> **Note:** The `.pbix` file is designed to be opened using Microsoft Power BI Desktop.
+
+## 💡 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Visualization
+- Power BI Dashboard Development
+- Power Query
+- DAX
+- KPI Development
+- Interactive Slicers
+- Exploratory Data Analysis
+- Business Intelligence Reporting
+
+
 ## 👨‍💻 Author
 
 **Parth Desai**
