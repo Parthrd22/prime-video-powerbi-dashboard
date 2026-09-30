@@ -87,6 +87,47 @@ Based on the dashboard analysis:
 - 🏆 Titles such as **Pulp Fiction, The Wolf of Wall Street, and Eternal Sunshine of the Spotless Mind** appear prominently in IMDb-vote analysis.
 - 📊 The dashboard allows users to interactively explore the data using **Release Year** and **Content Type** filters.
 
+## 🗂️ Dataset & Data Preparation
+
+The project uses an Amazon Prime Video content dataset containing information about movies and TV shows, including titles, genres, release years, countries, IMDb scores, and IMDb votes.
+
+### Data Preparation
+
+The data was prepared and analyzed using **Power Query in Microsoft Power BI**.
+
+The main preparation steps included:
+
+- Removing unnecessary columns.
+- Handling missing and blank values.
+- Checking data types.
+- Cleaning and standardizing categorical fields.
+- Preparing release year and IMDb score fields for analysis.
+- Creating relationships between relevant tables.
+- Creating calculated measures for dashboard KPIs.
+- Organizing the data for interactive visualization.
+
+## 🧮 Power BI Analysis
+
+The dashboard uses Power BI features including:
+
+- **Power Query** – Data cleaning and transformation
+- **DAX** – Measures and calculations
+- **Slicers** – Interactive filtering
+- **Cards** – KPI presentation
+- **Bar Charts** – Genre, country and title analysis
+- **Donut Chart** – Movies vs TV Shows
+- **Column Charts** – Release year and IMDb score analysis
+
+## 📌 Key KPIs
+
+| KPI | Description |
+|---|---|
+| Total Titles | Total number of titles in the dataset |
+| Total Movies | Number of movies |
+| Total TV Shows | Number of TV shows |
+| Average IMDb Score | Average IMDb score |
+| IMDb Votes | Audience engagement based on IMDb votes |
+
 ## 👨‍💻 Author
 
 **Parth Desai**
