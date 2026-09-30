@@ -118,6 +118,23 @@ The dashboard uses Power BI features including:
 - **Donut Chart** – Movies vs TV Shows
 - **Column Charts** – Release year and IMDb score analysis
 
+## 📁 Project Structure
+
+```text
+prime-video-powerbi-dashboard/
+│
+├── Amazon-Prime-Video-PowerBI-Dashboard.pbix
+│   └── Complete Power BI dashboard
+│
+├── overview-dashboard.png
+│   └── Overview dashboard preview
+│
+├── detailed-analysis.png
+│   └── Detailed analysis dashboard preview
+│
+└── README.md
+    └── Project documentation
+
 ## 📌 Key KPIs
 
 | KPI | Description |
