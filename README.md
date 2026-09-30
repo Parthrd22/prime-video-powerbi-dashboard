@@ -6,11 +6,11 @@ An interactive **Amazon Prime Video Data Analysis Dashboard** developed using **
 
 ### Overview Dashboard
 
-![Prime Video Overview Dashboard](overview-dashboard.png.png)
+![Prime Video Overview Dashboard](overview-dashboard.png)
 
 ### Detailed Analysis
 
-![Prime Video Detailed Analysis](detailed-analysis.png.png)
+![Prime Video Detailed Analysis](detailed-analysis.png)
 
 ## 🎯 Project Objectives
 
